@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Oh we so fancy with our organization.
 
 <!--
